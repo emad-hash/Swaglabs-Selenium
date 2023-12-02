@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-01T20:17:49 GMT-08:00" name="Default suite" finished-at="2023-12-01T20:18:12 GMT-08:00" duration-ms="23527">
+    <groups>
+    </groups>
+    <test started-at="2023-12-01T20:17:49 GMT-08:00" name="Default test" finished-at="2023-12-01T20:18:12 GMT-08:00" duration-ms="23527">
+      <class name="ProjectOne.MyTestCases">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:ProjectOne.MyTestCases@5ad10c1a]" started-at="2023-12-01T20:17:49 GMT-08:00" name="mySetup" finished-at="2023-12-01T20:17:49 GMT-08:00" duration-ms="136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="addTwoItems()[pri:1, instance:ProjectOne.MyTestCases@5ad10c1a]" started-at="2023-12-01T20:17:49 GMT-08:00" name="addTwoItems" finished-at="2023-12-01T20:17:58 GMT-08:00" duration-ms="8947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTwoItems -->
+        <test-method signature="addthreeItems()[pri:2, instance:ProjectOne.MyTestCases@5ad10c1a]" started-at="2023-12-01T20:17:58 GMT-08:00" name="addthreeItems" finished-at="2023-12-01T20:18:04 GMT-08:00" duration-ms="6007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addthreeItems -->
+        <test-method signature="addFourItems()[pri:3, instance:ProjectOne.MyTestCases@5ad10c1a]" started-at="2023-12-01T20:18:04 GMT-08:00" name="addFourItems" finished-at="2023-12-01T20:18:12 GMT-08:00" duration-ms="8401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addFourItems -->
+        <test-method is-config="true" signature="PostTesting()[pri:0, instance:ProjectOne.MyTestCases@5ad10c1a]" started-at="2023-12-01T20:18:12 GMT-08:00" name="PostTesting" finished-at="2023-12-01T20:18:12 GMT-08:00" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTesting -->
+      </class> <!-- ProjectOne.MyTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
